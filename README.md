@@ -10,9 +10,11 @@ The output file is a 1200 by 1200 bitmap/jpg file containing the relief map. Rel
 
 The image below shows a relief map of the [S44E170.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/HGT/S44E170.zip) file (West Coast/Southern Alps of New Zealand).
 
-![alt text](https://github.com/nodecomplete/HGT-To-Normal/blob/master/ReliefMap2.jpg)
+![alt text](https://github.com/nodecomplete/HGT-Relief-Map/blob/master/ReliefMap.jpg)
 
-More samples, in this case Tongariro National Park [S40E175.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/HGT/S40E175.zip)
+More samples, in this case Tongariro National Park [S40E175.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/HGT/S40E175.zip) and Otage/Southland.
 
-![alt text](https://github.com/nodecomplete/HGT-To-Normal/blob/master/ReliefMap.jpg)
+![alt text](https://github.com/nodecomplete/HGT-Relief-Map/blob/master/ReliefMap2.jpg)
+
+![alt text](https://github.com/nodecomplete/HGT-Relief-Map/blob/master/ReliefMap3.jpg)
 
