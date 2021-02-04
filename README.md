@@ -29,13 +29,15 @@ The project was written using Visual Studio 2019 (make sure the desktop C++ and 
  
  **Sample Images**
 
-The image below shows a relief map of the [S44E170.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/HGT/S44E170.zip) file (West Coast/Southern Alps of New Zealand).
+The image below shows a relief map of the Auckland Rrgion [S37E174.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/HGT/S37E174.zip)  
 
-![alt text](https://github.com/nodecomplete/HGT-Relief-Map/blob/master/ReliefMap2.jpg)
+![alt text](https://github.com/nodecomplete/HGT-Relief-Map/blob/master/Auckland.jpg)
 
-More samples, in this case Tongariro National Park [S40E175.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/HGT/S40E175.zip) and Otage/Southland.
+Rotorua [S39E176.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/HGT/S39E176.zip) and Otage/Southland.
 
-![alt text](https://github.com/nodecomplete/HGT-Relief-Map/blob/master/ReliefMap.jpg)
+![alt text](https://github.com/nodecomplete/HGT-Relief-Map/blob/master/Rotorua.jpg)
 
-![alt text](https://github.com/nodecomplete/HGT-Relief-Map/blob/master/ReliefMap3.jpg)
+Wellington [S42E174.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/HGT/S42E174.zip).
+
+![alt text](https://github.com/nodecomplete/HGT-Relief-Map/blob/master/Wellington.jpg)
 
