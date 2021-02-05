@@ -29,7 +29,7 @@ The project was written using Visual Studio 2019 (make sure the desktop C++ and 
  
  **Sample Images**
 
-The image below shows a relief map of the Auckland Rrgion [S37E174.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/HGT/S37E174.zip)  
+The image below shows a relief map of the Auckland Region [S37E174.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/HGT/S37E174.zip)  
 
 ![alt text](https://github.com/nodecomplete/HGT-Relief-Map/blob/master/Auckland.jpg)
 
