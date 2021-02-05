@@ -41,3 +41,7 @@ Wellington [S42E174.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/maste
 
 ![alt text](https://github.com/nodecomplete/HGT-Relief-Map/blob/master/Wellington.jpg)
 
+Otago/Southland [S47E169.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/HGT/S47E169.zip).
+
+![alt text](https://github.com/nodecomplete/HGT-Relief-Map/blob/master/Otago.jpg)
+
