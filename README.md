@@ -3,7 +3,7 @@
 Presented is a C++ Windows application that creates relief map images from high resolution 1 arc-second HGT files. The application was used to create the relief maps in my [New Zealand Digital Elevation Model project](https://github.com/nodecomplete/NZDEM-HGT-30). 
 
 The application expects a high resolution HGT file ( 1 arc-second ). These files are 3601 by 3601 and contain the height in meters stored as a 16 bit value.
-The output file is a 1200 by 1200 bitmap/jpg file containing the relief map. Relief maps allow the HGT to be visualized more easily. For more information about HGT files see my other [project](https://github.com/nodecomplete/NZDEM-HGT-30). 
+The output file is a 1200 by 1200 bitmap/jpg file containing the relief map. Relief maps allow the HGT data to be visualized more easily. For more information about HGT files see my other [project](https://github.com/nodecomplete/NZDEM-HGT-30). 
 
 **Using the application**
 
