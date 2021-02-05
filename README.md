@@ -24,7 +24,7 @@ The project was written using Visual Studio 2019 (make sure the desktop C++ and 
 **Credits**
 
 1) The Vector SIMD code was copied from [here](https://github.com/pelletier/vector3).
-2) The colour map was inpsired from 3dem application that apparently is no longer supported but an old version can be downloaded from here http://www.visualizationsoftware.com/3dem.
+2) The colour map was inpsired from 3dem application that apparently is no longer supported but an old version can be downloaded from [here](http://www.visualizationsoftware.com/3dem).
 
  
  **Sample Images**
