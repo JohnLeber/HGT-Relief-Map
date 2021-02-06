@@ -37,7 +37,7 @@ Rotorua [S39E176.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/H
 
 ![alt text](https://github.com/nodecomplete/HGT-Relief-Map/blob/master/Rotorua.jpg)
 
-Wellington [S42E174.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/HGT/S42E174.zip).
+Wellington/Queen Charlotte Sound [S42E174.hgt](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/HGT/S42E174.zip).
 
 ![alt text](https://github.com/nodecomplete/HGT-Relief-Map/blob/master/Wellington.jpg)
 
