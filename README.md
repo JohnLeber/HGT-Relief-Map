@@ -11,7 +11,7 @@ The output file is a 1200 by 1200 bitmap/jpg file containing the relief map. Rel
 2) Optionally, an additional JPEG can be saved if the "Create additional JPEG" option is selected.
 3) Normal maps can also be created by pressing the "Create Normal Map" button. (I added this feature to help debug my HGT-CUDA [project](https://github.com/nodecomplete/HGT-To-Normal)).
 4) To automatically create a Relief/Normal map for each file in the specified directory, select the scan folder option. This saves having to select each file in the directory one at a time.
-the builtin editor.
+5) The cclour scale can be altered using the builtin editor.
 
 
 **Building the application**
